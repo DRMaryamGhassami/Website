@@ -49,7 +49,7 @@ Version:	1.1
 	Global CSS 
 ===============================*/
 body{
-    font-family: 'Vazir', sans-serif;
+    font-family: 'Poppins', sans-serif;
 	font-weight: 400;
 	font-size:14px;
 	color:#888;
@@ -639,6 +639,7 @@ body{
 	background:#1A76D1;
 }
 .slider .owl-carousel .owl-nav {
+	display: none;
 	margin: 0;
     position: absolute;
     top: 50%;
